@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-05
+
+- test: add initial test suite
+
 ## 2026-06-04
 
 - test: add initial test suite
